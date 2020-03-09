@@ -1,6 +1,6 @@
 ---
 layout: panel-with-sidebar
-title: Hash Code 2019
+title: Hash Code
 id: hashcode
 ---
 
